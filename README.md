@@ -1,0 +1,2 @@
+amountInWords2
+==============
